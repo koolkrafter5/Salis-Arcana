@@ -4,6 +4,7 @@ import java.text.NumberFormat;
 import java.util.List;
 import java.util.StringJoiner;
 
+import cpw.mods.fml.common.Optional;
 import net.minecraft.util.StatCollector;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 
